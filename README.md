@@ -49,3 +49,4 @@ Para ejecutar las pruebas unitarias del servicio de gestión de tareas, hay que 
 ## Algunas cosas a tener en cuenta
 
 Las tareas se almacenan temporalmente en memoria, por lo que al recargar la página se recuperará la información inicial. Además, el formulario de contacto es únicamente demostrativo y no envía correos electrónicos reales.  
+# adi-ra1-aaron-otazu
